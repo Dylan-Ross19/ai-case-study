@@ -1,4 +1,4 @@
-# Case Study of Epirus, Inc
+# Case Study of Epirus, Inc                                        By Dylan Ross
 ---
 ## ([Epirus, Inc.](https://www.epirusinc.com)) is a tech company that has set out to develop software-defined directed energy systems. These systems have power management solutions, as well as electronic countermeasures (ECM) for things such as unmanned vehciles, and robots (dare I say Extra terrestial tech?)
 
