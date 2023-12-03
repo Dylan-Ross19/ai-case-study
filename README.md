@@ -1,7 +1,7 @@
 # Case Study of Epirus, Inc.                                    By Dylan Ross
 
 ---
-###  In a world landscape that is changing at a rapid pace, the advancement of technology and shift in global values has led to the rise of a wide array of threats. **The unmanned aerial system (UAS) threat has proliferated around the globe.** Aside from most major militaries rapidly adopting and developing unmanned technologies; It is alarming that *anyone* can go into a store buy a drone and retrofit it with a bomb or other weapon and fly it to an area.
+###  In a world landscape that is changing at a rapid pace, the advancement of technology and shift in global values has led to the rise of a wide array of threats. **The unmanned aerial system (UAS) threat has proliferated around the globe.** Aside from most major militaries rapidly adopting and developing unmanned technologies; It is alarming that *anyone* can go into a store buy a drone and retrofit it with a bomb or other weapon and fly it to any area.
 
 ---
 ![](epirus.jpg)
@@ -18,6 +18,20 @@ The Leonidas system is their flagship ground based counter electronic system. It
 
 ## The Finances 
 
-With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments. In 2022 they landed a $200M Class C deal and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock. 
+> #### With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments.
 
-Rafael is a competitor. 
+> * In 2022 they landed a $200M Class C deal and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock. 
+>
+> * An estimated revenue of $67.3M and total funding of $287.4M
+>
+>> “Under the extraordinary leadership of Leigh Madden, Bo Marr, and Ken Bedingfield, Epirus has achieved multiple milestones at breathtaking pace,” said Grant Verstandig, Epirus Co-Founder and Executive Chairman. “Now, with backing from an exceptional, high-conviction group of investors led by Bedrock and support from two of the defense sector’s most innovative and forward-thinking partners in L3Harris and Northrop Grumman, Epirus is poised to revolutionize directed energy and break the boundaries of power management, with far-reaching potential across defense, security, and commercial applications.”  ^^Box quote This^^ 
+
+talk about competitors.
+
+---
+
+Addendum
+https://taskandpurpose.com/news/army-microwave-weapon-drone-swarms-ifpc-hpm-contract/
+https://growjo.com/company/Epirus
+https://www.businesswire.com/news/home/20201217005156/en/CORRECTING-and-REPLACING-Epirus-Inc.-Raises-70M-in-Series-B-Funding-Advancing-Directed-Energy-For-Defense-and-Commercial-Applications
+https://www.epirusinc.com/
