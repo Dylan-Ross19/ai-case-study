@@ -5,7 +5,7 @@
 ---
 ![](epirus.jpg)
 
-[Epirus, Inc.](https://www.epirusinc.com) is effective in their approach to combat these threats. Much like the Greek hero *Theseus*, wielder of the  *The Epirus*, a bow with infinite arrows; they strive to be fast, efficient, and agile with limitless innovation. They are a tech company that has been developing software-defined directed energy systems. These systems have power management solutions, as well as electronic countermeasures, such as their Leonidas High Powered Microwave system (HPM) for vehicular, robotic and alien technologies. 
+#### [Epirus, Inc.](https://www.epirusinc.com) is effective in their approach to combat these threats. Much like the Greek hero *Theseus*, wielder of the  *The Epirus*, a bow with infinite arrows; they strive to be fast, efficient, and agile with limitless innovation. They are a tech company that has been developing software-defined directed energy systems. These systems have power management solutions, as well as electronic countermeasures, such as their Leonidas High Powered Microwave system (HPM) for vehicular, robotic and alien technologies. 
 
 ![](<leonidas system.jpg>)
 
@@ -14,7 +14,7 @@ The high-growth tech startup was founded in 2018 by Bo Marr, Grant L. Verstandig
 Boeing, and Raytheon have both developed their Ai assissted Counter-UAS system to be sold to US Miltary and Law Enforecement. Boeing's is a 300-kilowat laser to target missiles and aircraft, and Raytheon's is a small unit to be put onto drones themselves.
 
 
-The Leonidas system is Epirus' flagship ground based counter-electronic system. It utilizes High Powered Microwave directed energy combined with AI targeting and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Espirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant General Dynamics to create the Strykyr Leonidas, which has retrofitted the Strykyr Mobile Troop Transport to house the Leonidas Unit.
+**The Leonidas system is Epirus' flagship ground based counter-electronic system.** It utilizes High Powered Microwave directed energy combined with AI targeting and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Espirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant General Dynamics to create the Strykyr Leonidas, which has retrofitted the Strykyr Mobile Troop Transport to house the Leonidas Unit.
 
 In my *expert* opinion I believe that if Epirus was able to develop a maritime operation for the leonidas system they would land a deal with the NAVY, Marine Corps, or Coast Guard increasing profits and ensuring company success for the future.
 
