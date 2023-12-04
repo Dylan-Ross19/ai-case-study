@@ -31,7 +31,7 @@ The Leonidas system is their flagship ground based counter electronic system. It
 
 ---
 
-> Addendum
+> #### Addendum
 >> https://taskandpurpose.com/news/army-microwave-weapon-drone-swarms-ifpc-hpm-contract/
 >> https://growjo.com/company/Epirus
 >> https://www.businesswire.com/news/home/20201217005156/en/CORRECTING-and-REPLACING-Epirus-Inc.-Raises-70M-in-Series-B-Funding-Advancing-Directed-Energy-For-Defense-and-Commercial-Applications
