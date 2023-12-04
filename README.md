@@ -14,9 +14,11 @@ The high-growth tech startup was founded in 2018 by Bo Marr, Grant L. Verstandig
 Boeing, and Raytheon have both developed their Ai assissted Counter-UAS system to be sold to US Miltary and Law Enforecement. Boeing's is a 300-kilowat laser to target missiles and aircraft, and Raytheon's is a small unit to be put onto drones themselves.
 
 
-**The Leonidas system is Epirus' flagship ground based counter-electronic system.** It utilizes High Powered Microwave directed energy combined with AI targeting and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Espirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant General Dynamics to create the Strykyr Leonidas, which has retrofitted the Strykyr Mobile Troop Transport to house the Leonidas Unit.
+**The Leonidas system is Epirus' flagship ground based counter-electronic system.** It utilizes High Powered Microwave directed energy combined with AI targeting and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Espirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant General Dynamics to create the Stryker Leonidas, which has retrofitted the Stryker Mobile Troop Transport to house the Leonidas Unit.
 
-In my *expert* opinion I believe that if Epirus was able to develop a maritime operation for the leonidas system they would land a deal with the NAVY, Marine Corps, or Coast Guard increasing profits and ensuring company success for the future.
+![](<Leonidas Stryker 8_0-1.png>)
+
+In my *expert* opinion I believe that if Epirus was able to develop a maritime operation for the leonidas system they would land a deal with the NAVY, Marine Corps, or Coast Guard increasing profits and ensuring company success for the future. It shouldn't be difficult to achieve considering the modularity of the Leonidas System.
 
 
 ---
