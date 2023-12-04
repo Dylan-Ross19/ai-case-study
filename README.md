@@ -34,8 +34,13 @@ In my *expert* opinion I believe that if Epirus was able to develop a maritime o
 ---
 
 > #### Addendum
+>>
 >> https://taskandpurpose.com/news/army-microwave-weapon-drone-swarms-ifpc-hpm-contract/
+>>
 >> https://growjo.com/company/Epirus
+>>
 >> https://www.businesswire.com/news/home/20201217005156/en/CORRECTING-and-REPLACING-Epirus-Inc.-Raises-70M-in-Series-B-Funding-Advancing-Directed-Energy-For-Defense-and-Commercial-Applications
+>>
 >> https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said
+>>
 >> https://www.epirusinc.com/
