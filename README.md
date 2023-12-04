@@ -27,7 +27,7 @@ In my *expert* opinion I believe that if Epirus was able to develop a maritime o
 
 #### With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments.
 
- - In 2022 they landed a [$200M Class C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock. - site source
+ - In 2022 they landed a [$200M Class C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock.
 
  - An estimated revenue of $67.3M and total funding of $287.4M
 
