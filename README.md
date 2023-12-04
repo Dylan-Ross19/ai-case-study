@@ -27,7 +27,7 @@ The Leonidas system is their flagship ground based counter electronic system. It
 
 - An estimated revenue of $67.3M and total funding of $287.4M
 
- - “Under the extraordinary leadership of Leigh Madden, Bo Marr, and Ken Bedingfield, Epirus has achieved multiple milestones at breathtaking pace,” said Grant Verstandig, Epirus Co-Founder and Executive Chairman. “Now, with backing from an exceptional, high-conviction group of investors led by Bedrock and support from two of the defense sector’s most innovative and forward-thinking partners in L3Harris and Northrop Grumman, Epirus is poised to revolutionize directed energy and break the boundaries of power management, with far-reaching potential across defense, security, and commercial applications.”  
+> “Under the extraordinary leadership of Leigh Madden, Bo Marr, and Ken Bedingfield, Epirus has achieved multiple milestones at breathtaking pace,” said Grant Verstandig, Epirus Co-Founder and Executive Chairman. “Now, with backing from an exceptional, high-conviction group of investors led by Bedrock and support from two of the defense sector’s most innovative and forward-thinking partners in L3Harris and Northrop Grumman, Epirus is poised to revolutionize directed energy and break the boundaries of power management, with far-reaching potential across defense, security, and commercial applications.”  
 
 ---
 
