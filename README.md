@@ -16,6 +16,8 @@ Boeing, and Raytheon have both developed their Counter-UAS system to be sold to 
 
 The Leonidas system is their flagship ground based counter electronic system. It utilizes High Powered Microwave directed energy combined with AI targeting and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Espirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant General Dynamics to create the Strykyr Leonidas, which has retrofitted the Strykyr Mobile Troop Transport to house the Leonidas Unit.
 
+In my *expert* opinion I believe that if Epirus was able to develop a maritime operation for the leonidas system they would land a deal with the NAVY, Marine Corps, or Coast Guard increasing profits and ensuring company success for the future.
+
 
 ---
 
@@ -23,9 +25,9 @@ The Leonidas system is their flagship ground based counter electronic system. It
 
 #### With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments.
 
-- In 2022 they landed a [$200M Class C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock. - site source
+ - In 2022 they landed a [$200M Class C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock. - site source
 
-- An estimated revenue of $67.3M and total funding of $287.4M
+ - An estimated revenue of $67.3M and total funding of $287.4M
 
  “Under the extraordinary leadership of Leigh Madden, Bo Marr, and Ken Bedingfield, Epirus has achieved multiple milestones at breathtaking pace,” said Grant Verstandig, Epirus Co-Founder and Executive Chairman. “Now, with backing from an exceptional, high-conviction group of investors led by Bedrock and support from two of the defense sector’s most innovative and forward-thinking partners in L3Harris and Northrop Grumman, Epirus is poised to revolutionize directed energy and break the boundaries of power management, with far-reaching potential across defense, security, and commercial applications.”  
 
