@@ -16,7 +16,7 @@ The high-growth tech startup was founded in 2018 by Bo Marr, Grant L. Verstandig
 Boeing, and Raytheon have both developed their Ai assissted Counter-UAS system to be sold to US Miltary and Law Enforecement. Boeing's is a 300-kilowat laser to target missiles and aircraft, and Raytheon's is a small unit to be put onto drones themselves.
 
 
-**The Leonidas system is Epirus' flagship ground based counter-electronic system.** It utilizes High Powered Microwave directed energy combined with AI targeting -via visual learning- and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Epirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant **General Dynamics** to create the Stryker Leonidas, which has retrofitted the Stryker Mobile Troop Transport to house the Leonidas Unit.
+**The Leonidas system is Epirus' flagship ground based counter-electronic system.** It utilizes High Powered Microwave directed energy combined with AI targeting -via computer vision- and power mangement to fry the electronics of opposing drones and drone swarms. The AI power management utility within Leonidas, known as [Epirus SmartPower](https://www.epirusinc.com/power-management) (ESP), allows the unit to be **considerably smaller, more modular and more mobile than other Counter-UAS systems in the market.** They have also teamed up with defense sector giant **General Dynamics** to create the Stryker Leonidas, which has retrofitted the Stryker Mobile Troop Transport to house the Leonidas Unit.
 
 ![](<Leonidas Stryker 8_0-1.png>)
 
@@ -32,7 +32,7 @@ Considering their trends since starting in 2018, It's without a doubt this compa
 
 #### With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments.
 
- - In 2022 they landed a [$200M Class C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock.
+ - In 2020 Epirus landed a $70M Series B deal that include L3Harris Technologies. In 2022 they landed a [$200M Series C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) that includes investors T. Rowe Price Associates, 8VC and Bedrock. and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock.
 
  - An estimated revenue of $67.3M and total funding of $287.4M
 
