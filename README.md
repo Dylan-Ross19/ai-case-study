@@ -32,7 +32,7 @@ Considering their trends since starting in 2018, It's without a doubt this compa
 
 #### With the major trend of militaries shifting towards autonomous technologies, Epirus' Tech has gained considerable investments.
 
- - In 2020 Epirus landed a $70M Series B deal that include L3Harris Technologies. In 2022 they landed a [$200M Series C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) that includes investors T. Rowe Price Associates, 8VC and Bedrock. and closed with post-deal valuation of $1.35B that includes investors T. Rowe Price Associates, 8VC and Bedrock.
+ - In 2020 Epirus landed a $70M Series B deal that include L3Harris Technologies. In 2022 they landed a [$200M Series C deal](https://www.reuters.com/business/aerospace-defense/exclusive-epirus-efforts-drone-zapping-weapons-get-boost-with-200-mln-cash-2022-02-15/#:~:text=Epirus%20raised%20%24200%20million%20in,other%20investors%2C%20the%20company%20said) that includes investors T. Rowe Price Associates, 8VC and Bedrock. and closed with post-deal valuation of $1.35B.
 
  - An estimated revenue of $67.3M and total funding of $287.4M
 
